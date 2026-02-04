@@ -26,5 +26,5 @@
 |     | [Hands-on session demonstrating deep-learning-based variant calling via DeepVariant](https://naicno.github.io/BioNT_Module2_handson/4.DeepVariant/)                                                                                  |
 | 5   | [Introduction to Accelerated Genomics (NGS data analysis, GPU introduction)]()                                 |
 |     | [GPU introduction]()                                                                                           |
-|     | [Docker introduction]()                                        .                                               |
+|     | [Docker introduction]()                                                                                        |
 |     | [Hands-on session on implementing accelerated Genomics workflows with Parabricks on VM with GPUs](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics/04.Hands-on/)                                                 |
