@@ -17,11 +17,11 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Learn LLMs"
-copyright = "Pubudu Samarakoon, 2026"
-author = "Pubudu Samarakoon"
-github_user = "pubudusaneth"
-github_repo_name = "learn_llm"  # auto-detected from dirname if blank
+project = "BioNT Applied ML Learning"
+copyright = "NAICNO, 2026"
+author = "NAICNO"
+github_user = "NAICNO"
+github_repo_name = "BioNT_AppliedML_Learning_Materials"  # auto-detected from dirname if blank
 github_version = "main"
 conf_py_path = "/content/"  # with leading and trailing slash
 
