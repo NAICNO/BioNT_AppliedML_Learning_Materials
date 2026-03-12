@@ -1,34 +1,31 @@
-# Into to LLMs
+# BioNT workshop - Applied Machine Learning for Biological Data
 
-Lessons covering a broad range of concepts on Large Language Model (LLM) related technology
+## Course description
 
+- https://www.cecam.org/workshop-details/1465
 
-```{toctree}
-:caption: Building Blocks of GPT-2 LLM
-:maxdepth: 1
+## Workshop structure and link to learning materials
 
-GPT-2_LLM/0.Introduction.md
-GPT-2_LLM/01.LLM_intro.md
-GPT-2_LLM/02.GPT_intro.md
-GPT-2_LLM/03.tokenizer.md
-GPT-2_LLM/04.Embeddings.md
-GPT-2_LLM/05.Transformer_block.md
-GPT-2_LLM/06.Attention_mechanism.md
-GPT-2_LLM/07.masked_attention.md
-GPT-2_LLM/08.Multihead-attention.md
-GPT-2_LLM/09.FNN.md
-GPT-2_LLM/10.LM_head.md
-GPT-2_LLM/10_1.LLM-end-to-end.ipynb
-GPT-2_LLM/11.LLM_dataflow.md
-GPT-2_LLM/quick-reference.md
-```
-
-
-```{toctree}
-:caption: Architecting Autonomous Systems
-:maxdepth: 1
-
-Agentic_Architectures/0.Introduction.md
-Agentic_Architectures/01.Foundations_of_Agentic_Architectures.md
-Agentic_Architectures/02.Agent_AI Agent_Interoperability_MCP.md
-```
+| Day | Topics                                                                                                         |
+| --- | -------------------------------------------------------------------------------------------------------------- |
+|     |                                                                                                                |
+| 1   | [NumPy: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/)                                                       |
+| 2   | [Pandas: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/)                                                       |
+|     |                                                                                                                |
+| 1   | [Introduction to Module 2](https://www.cecam.org/workshop-details/1465)                                                                                                                     |
+|     | [ML terminology and ML in Bioinformatics](content/Day1/0_Introduction_ml_terminology.pdf)                                                                                                                     |
+|     | [Unsupervised Learning: Clustering (K-Means Clustering, Hierarchical clustering, Clustering evaluation metrics)](content/Day1/1_Unsupervised_Learning.pdf)                                                                                                                     |
+|     | [Unsupervised Learning: Dimensionality reduction (Principal component analysis - PCA)](content/Day1/1_Unsupervised_Learning.pdf)                                                                                                                     |
+|     | [Hands-on session demonstrating PCA and clustering in cancer genomics](https://naicno.github.io/BioNT_Module2_handson/1.PCA_n_Clustering/)                                                            |
+| 2   | [Classification: Logistic regression; Tree-based methods; Matrices for classification evaluation](content/Day2/2_ML_classification_topics.pdf)                                                                                                                     |
+|     | [Hands-on session demonstrating Logistic regression in cancer genomics](https://naicno.github.io/BioNT_Module2_handson/2.Logistic_regression/)                                                                 |
+|     | [Regression: Regression mechanics, Loss function, Regularised regression, Matrices for regression evaluation](content/Day2/3_ML_Regression_topics.pdf)                                                                                                                     |
+| 3   | [Model validation and optimisation (Overfitting and underfitting, Standardising Data, Handling missing data)](content/Day3/4_Model_optimization_and_validation.pdf)                                                                                                                     |
+|     | [Model validation and optimisation (K-fold cross-validation)](content/Day3/4_Model_optimization_and_validation.pdf)                                                                                                                     |
+|     | [Hands-on session: ML workflow with biological data](https://naicno.github.io/BioNT_Module2_handson/3.ML_workflow/)                                                                                                 |
+| 4   | [Introduction to deep learning (Basic concepts of Neural Networks - NN; Simple NN with PyTorch)](content/Day4/introduction_to_deep_learning.pdf)                                                                                                                     |
+|     | [Hands-on session demonstrating deep-learning-based variant calling via DeepVariant](https://naicno.github.io/BioNT_Module2_handson/4.DeepVariant/)                                                                                  |
+| 5   | [Introduction to Accelerated Genomics (NGS data analysis, GPU introduction)](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics)                                 |
+|     | [GPU introduction](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics)                                                                                           |
+|     | [Docker introduction](https://training.pages.sigma2.no/tutorials/gpu-intro/)                                                                                        |
+|     | [Hands-on session on implementing accelerated Genomics workflows with Parabricks on VM with GPUs](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics/04.Hands-on/)                                                 |
