@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1149796176.svg)](https://doi.org/10.5281/zenodo.19075305)
+
 # BioNT
 
 ![alt text](content/images/image.png)
