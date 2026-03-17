@@ -11,9 +11,9 @@
 | Day | Topics                                                                                                         |
 | --- | -------------------------------------------------------------------------------------------------------------- |
 |     |                                                                                                                |
-| 1   | [NumPy: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/)                                                       |
-| 2   | [Pandas: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/)                                                       |
-|     |                                                                                                                |
+| 1   | [NumPy: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/0.Numpy_for_bioinformatics/) |
+| 2   | [Pandas: Fundamentals](hhttps://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/7.Pandas_lesson%20plan/) |
+
 
 ### Module 2
 
