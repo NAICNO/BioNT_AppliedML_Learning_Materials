@@ -1,5 +1,7 @@
 # BioNT workshop - Applied Machine Learning for Biological Data
 
+- [Link to the Sphinx Page](https://naicno.github.io/BioNT_AppliedML_Learning_Materials/)
+
 ## Course description
 
 - [Description provided in the course registration page](https://www.cecam.org/workshop-details/1465)
@@ -8,12 +10,13 @@
 
 ### Module 1
 
+- [Introduction to Module 1](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/) 
+
+
 | Day | Topics                                                                                                         |
 | --- | -------------------------------------------------------------------------------------------------------------- |
-|     |                                                                                                                |
 | 1   | [NumPy: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/0.Numpy_for_bioinformatics/) |
-| 2   | [Pandas: Fundamentals](hhttps://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/7.Pandas_lesson%20plan/) |
-
+| 2   | [Pandas: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/7.Pandas_lesson%20plan/) |
 
 ### Module 2
 
