@@ -2,18 +2,26 @@
 
 ## Course description
 
-- https://www.cecam.org/workshop-details/1465
+- [Description provided in the course registration page](https://www.cecam.org/workshop-details/1465)
 
 ## Workshop structure and link to learning materials
+
+### Module 1
 
 | Day | Topics                                                                                                         |
 | --- | -------------------------------------------------------------------------------------------------------------- |
 |     |                                                                                                                |
-| 1   | [NumPy: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/)                                                       |
-| 2   | [Pandas: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/)                                                       |
-|     |                                                                                                                |
-| 1   | [Introduction to Module 2](https://www.cecam.org/workshop-details/1465)                                                                                                                     |
-|     | [ML terminology and ML in Bioinformatics](Day1/0_Introduction_ml_terminology.pdf)                                                                                                                     |
+| 1   | [NumPy: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/0.Numpy_for_bioinformatics/) |
+| 2   | [Pandas: Fundamentals](hhttps://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/7.Pandas_lesson%20plan/) |
+
+
+### Module 2
+
+- [Introduction to Module 2](https://www.cecam.org/workshop-details/1465) 
+
+| Day | Topics                                                                                                         |
+| --- | -------------------------------------------------------------------------------------------------------------- |
+|  1   | [ML terminology and ML in Bioinformatics](Day1/0_Introduction_ml_terminology.pdf)                                                                                                                     |
 |     | [Unsupervised Learning: Clustering (K-Means Clustering, Hierarchical clustering, Clustering evaluation metrics)](Day1/1_Unsupervised_Learning.pdf)                                                                                                                     |
 |     | [Unsupervised Learning: Dimensionality reduction (Principal component analysis - PCA)](Day1/1_Unsupervised_Learning.pdf)                                                                                                                     |
 |     | [Hands-on session demonstrating PCA and clustering in cancer genomics](https://naicno.github.io/BioNT_Module2_handson/1.PCA_n_Clustering/)                                                            |
