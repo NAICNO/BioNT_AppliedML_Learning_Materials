@@ -1,6 +1,12 @@
-# BioNT workshop - Applied Machine Learning for Biological Data
+# BioNT
 
-- [Link to the Sphinx Page](https://naicno.github.io/BioNT_AppliedML_Learning_Materials/)
+![alt text](content/images/image.png)
+
+[BioNT](https://biont-training.eu/training.html) is an international consortium dedicated to providing high-quality training and fostering a community for digital skills in the biotechnology and biomedical sectors. The project's training model is built on three core missions:
+
+## Course name
+
+- Applied Machine Learning for Biological Data
 
 ## Course description
 
@@ -40,3 +46,5 @@
 |     | [GPU introduction](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics)                                                                                           |
 |     | [Docker introduction](https://training.pages.sigma2.no/tutorials/gpu-intro/)                                                                                        |
 |     | [Hands-on session on implementing accelerated Genomics workflows with Parabricks on VM with GPUs](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics/04.Hands-on/)                                                 |
+
+- [Link to the Sphinx Page](https://naicno.github.io/BioNT_AppliedML_Learning_Materials/)

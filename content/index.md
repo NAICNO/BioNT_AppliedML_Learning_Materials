@@ -1,8 +1,16 @@
-# BioNT workshop - Applied Machine Learning for Biological Data
+# BioNT
+
+![alt text](images/image.png)
+
+[BioNT](https://biont-training.eu/training.html) is an international consortium dedicated to providing high-quality training and fostering a community for digital skills in the biotechnology and biomedical sectors. The project's training model is built on three core missions:
+
+## Course name
+
+- Applied Machine Learning for Biological Data
 
 ## Course description
 
-- [Description provided in the course registration page](https://www.cecam.org/workshop-details/1465)
+- [Description provided in the course registration page](https://www.cecam.org/workshop-details/applied-machine-learning-for-biological-data-1459)
 
 ## Workshop structure and link to learning materials
 
@@ -15,7 +23,6 @@
 | --- | -------------------------------------------------------------------------------------------------------------- |
 | 1   | [NumPy: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/0.Numpy_for_bioinformatics/) |
 | 2   | [Pandas: Fundamentals](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/7.Pandas_lesson%20plan/) |
-
 
 ### Module 2
 
