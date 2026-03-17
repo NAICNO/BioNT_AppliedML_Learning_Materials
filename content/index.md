@@ -12,12 +12,22 @@
 
 - [Description provided in the course registration page](https://www.cecam.org/workshop-details/applied-machine-learning-for-biological-data-1459)
 
+## Trainers
+
+- Sabry Razick (University of Oslo)
+- Pubudu Saneth Samarakoon (University of Oslo)
+- Burcin Buket Ogul (University of Oslo)
+- Milan De Cauwer (SINTEF Norway)
+- Katarzyna Michalowska (SINTEF Norway)
+- Elias Myklebust (Simula Research Laboratory)
+
 ## Workshop structure and link to learning materials
 
 ### Module 1
 
-- [Introduction to Module 1](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/) 
+Module 1 (optional) provides a solid foundation in scientific computing with Python. Across two half-day sessions, participants will explore essential data handling techniques using NumPy and Pandas—tools widely adopted for manipulating and analyzing biological data.
 
+- [Introduction to Module 1](https://coderefinery.github.io/NumPy-and-Pandas-fundamentals-for-handling-biological-datasets/) 
 
 | Day | Topics                                                                                                         |
 | --- | -------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +36,7 @@
 
 ### Module 2
 
-- [Introduction to Module 2](https://www.cecam.org/workshop-details/1465) 
+Module 2 spans five full days and begins by introducing core concepts in machine learning. On the first day, the participants will be introduced to unsupervised learning, and they will implement clustering algorithms and dimensionality reduction techniques using real-world genomics data. The workshop then dives into supervised learning with a focus on classification and regression, including logistic regression and tree-based methods. Participants will construct and evaluate ML models, perform cross-validation, and tune hyperparameters in hands-on sessions tailored to cancer genomics datasets. Later sessions introduce deep learning concepts and the PyTorch framework. Participants will learn to build and train simple neural networks and explore a deep learning-based bioinformatics tool used in genomic variant calling. The final day introduces accelerated genomics through GPU-powered workflows. Participants will learn about GPU technology and how to use containerized bioinformatics tools. They will also implement high-performance, GPU-accelerated pipelines using Parabricks.
 
 | Day | Topics                                                                                                         |
 | --- | -------------------------------------------------------------------------------------------------------------- |
@@ -46,3 +56,15 @@
 |     | [GPU introduction](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics)                                                                                           |
 |     | [Docker introduction](https://training.pages.sigma2.no/tutorials/gpu-intro/)                                                                                        |
 |     | [Hands-on session on implementing accelerated Genomics workflows with Parabricks on VM with GPUs](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics/04.Hands-on/)                                                 |
+
+## Contact
+
+- [Sabry Razick](https://www.usit.uio.no/om/organisasjon/ffu/bt/ansatte/sabryr/index.html)
+- [Pubudu Samarakoon](https://www.usit.uio.no/om/organisasjon/ffu/bt/ansatte/pubuduss/index.html)
+
+## Coordinator
+
+- European Molecular Biology Laboratory
+- Contact:
+  - EMBL, Meyerhofstr. 1, 69126 Heidelberg, Germany
+  - contact@biont-training.eu
