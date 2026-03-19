@@ -2,7 +2,7 @@
 
 ![alt text](images/image.png)
 
-[BioNT](https://biont-training.eu/training.html) is an international consortium dedicated to providing high-quality training and fostering a community for digital skills in the biotechnology and biomedical sectors. The project's training model is built on three core missions:
+[BioNT](https://biont-training.eu/training.html) is an international consortium dedicated to providing high-quality training and fostering a community for digital skills in the biotechnology and biomedical sectors.
 
 ## Course name
 
