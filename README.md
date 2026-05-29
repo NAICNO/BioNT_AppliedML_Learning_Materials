@@ -79,3 +79,15 @@ By the end of this workshop, you will be able to:
 
 
 - [Link to the Sphinx Page](https://naicno.github.io/BioNT_AppliedML_Learning_Materials/)
+
+## Contact
+
+- [Sabry Razick](https://www.usit.uio.no/om/organisasjon/ffu/bt/ansatte/sabryr/index.html)
+- [Pubudu Samarakoon](https://www.usit.uio.no/om/organisasjon/ffu/bt/ansatte/pubuduss/index.html)
+
+## Coordinator
+
+- European Molecular Biology Laboratory
+- Contact:
+  - EMBL, Meyerhofstr. 1, 69126 Heidelberg, Germany
+  - contact@biont-training.eu
