@@ -4,7 +4,7 @@
 
 ![alt text](content/images/image.png)
 
-[BioNT](https://biont-training.eu/training.html) is an international consortium dedicated to providing high-quality training and fostering a community for digital skills in the biotechnology and biomedical sectors. The project's training model is built on three core missions:
+[BioNT](https://biont-training.eu/training.html) is an international consortium dedicated to providing high-quality training and fostering a community for digital skills in the biotechnology and biomedical sectors.
 
 ## Course name
 
@@ -41,7 +41,7 @@ Module 1 (optional) provides a solid foundation in scientific computing with Pyt
 
 Module 2 spans five full days and begins by introducing core concepts in machine learning. On the first day, the participants will be introduced to unsupervised learning, and they will implement clustering algorithms and dimensionality reduction techniques using real-world genomics data. The workshop then dives into supervised learning with a focus on classification and regression, including logistic regression and tree-based methods. Participants will construct and evaluate ML models, perform cross-validation, and tune hyperparameters in hands-on sessions tailored to cancer genomics datasets. Later sessions introduce deep learning concepts and the PyTorch framework. Participants will learn to build and train simple neural networks and explore a deep learning-based bioinformatics tool used in genomic variant calling. The final day introduces accelerated genomics through GPU-powered workflows. Participants will learn about GPU technology and how to use containerized bioinformatics tools. They will also implement high-performance, GPU-accelerated pipelines using Parabricks.
 
-### Learning Outcomes: 
+### Learning Outcomes:
 
 By the end of this workshop, you will be able to:
 
@@ -71,7 +71,8 @@ By the end of this workshop, you will be able to:
 |     | [Hands-on session: ML workflow with biological data](https://naicno.github.io/BioNT_Module2_handson/3.ML_workflow/)                                                                                                 |
 | 4   | [Introduction to deep learning (Basic concepts of Neural Networks - NN; Simple NN with PyTorch)](Day4/introduction_to_deep_learning.pdf)                                                                                                                     |
 |     | [Hands-on session demonstrating deep-learning-based variant calling via DeepVariant](https://naicno.github.io/BioNT_Module2_handson/4.DeepVariant/)                                                                                  |
-| 5   | [Introduction to Accelerated Genomics (NGS data analysis, GPU introduction)](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics)                                 |
+| 5   | [Notes for the video course: Introduction - NGS)](content/Day5/1.NGS_introductions.pdf); [Notes for the video course: Introduction - NGS)](content/Day5/2.ACC_NGS.pdf) |
+|     | [Introduction to Accelerated Genomics (NGS data analysis, GPU introduction)](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics)                                 |
 |     | [GPU introduction](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics)                                                                                           |
 |     | [Docker introduction](https://training.pages.sigma2.no/tutorials/gpu-intro/)                                                                                        |
 |     | [Hands-on session on implementing accelerated Genomics workflows with Parabricks on VM with GPUs](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics/04.Hands-on/)                                                 |
