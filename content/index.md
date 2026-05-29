@@ -52,7 +52,7 @@ Module 2 spans five full days and begins by introducing core concepts in machine
 |     | [Hands-on session: ML workflow with biological data](https://naicno.github.io/BioNT_Module2_handson/3.ML_workflow/)                                                                                                 |
 | 4   | [Introduction to deep learning (Basic concepts of Neural Networks - NN; Simple NN with PyTorch)](Day4/introduction_to_deep_learning.pdf)                                                                                                                     |
 |     | [Hands-on session demonstrating deep-learning-based variant calling via DeepVariant](https://naicno.github.io/BioNT_Module2_handson/4.DeepVariant/)                                                                                  |
-| 5   | [Notes for the video course: Introduction - NGS)](content/Day5/1.NGS_introductions.pdf); [Notes for the video course: Accelerated NGS)](content/Day5/2.ACC_NGS.pdf) |
+| 5   | Notes for the video course: [Introduction - NGS](content/Day5/1.NGS_introductions.pdf); [Accelerated NGS)](content/Day5/2.ACC_NGS.pdf) |
 |     | [Introduction to Accelerated Genomics (NGS data analysis, GPU introduction)](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics)                                 |
 |     | [GPU introduction](https://coderefinery.github.io/BioNT_Lesson_Accelerated_Genomics)                                                                                           |
 |     | [Docker introduction](https://training.pages.sigma2.no/tutorials/gpu-intro/)                                                                                        |
